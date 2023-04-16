@@ -1,4 +1,5 @@
 import './globals.css'
+// import '@fontsource/inter'
 
 export const metadata = {
   title: 'Create Next App',
