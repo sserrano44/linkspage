@@ -32,7 +32,7 @@ export default function Home() {
         <Image src="/avatar.jpg" alt="Sebastian Serrano" width={200} height={200} className="rounded-full mx-auto mb-8" />
         <div className="">
           <p className="text-gray-500 text-left font-condensed">
-            Hi, I'm Sebastian Serrano, CEO and co-founder of Ripio, a leading crypto company in Latin America. I have a background in computer science and have been working in the blockchain and cryptocurrency space for over a decade. I am passionate about the potential of this technology to transform our financial systems and empower individuals around the world.
+            Hi, I&apos;m Sebastian Serrano, CEO and co-founder of Ripio, a leading crypto company in Latin America. I have a background in computer science and have been working in the blockchain and cryptocurrency space for over a decade. I am passionate about the potential of this technology to transform our financial systems and empower individuals around the world.
           </p>
         </div>
         <div className="text-center">
