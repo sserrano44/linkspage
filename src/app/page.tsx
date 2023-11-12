@@ -15,7 +15,16 @@ const links = [
   {
     name: 'LinkedIn',
     url: 'https://linkedin.com/in/sebastianserrano'
-  }
+  },
+  {
+    name: 'Discord',
+    url: 'https://discord.gg/3JWTmU78JE'
+  },
+  {
+    name: 'LaChain',
+    url: 'https://www.lachain.network/'
+  },
+
 ]
 
 export default function Home() {
