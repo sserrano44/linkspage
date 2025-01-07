@@ -41,7 +41,13 @@ export default function Home() {
         <Image src="/avatar.jpg" alt="Sebastian Serrano" width={200} height={200} className="rounded-full mx-auto mb-8" />
         <div className="">
           <p className="text-gray-500 text-left font-condensed">
-            Hi, I&apos;m Sebastian Serrano, CEO and co-founder of Ripio, a leading crypto company in Latin America. I have a background in computer science and have been working in the blockchain and cryptocurrency space for over a decade. I am passionate about the potential of this technology to transform our financial systems and empower individuals around the world.
+            Hi, I&apos;m Sebastian Serrano, a passionate entrepreneur and technologist from Patagonia, currently based in South America. As the founder and CEO of Ripio, I&apos;ve dedicated over a decade to making cryptocurrency and blockchain technology more accessible across Latin America. My mission is to empower individuals and businesses through innovative financial solutions that bridge traditional and decentralized finance.
+
+I have a background in computer science and physics, and I&apos;ve always been driven by curiosity and the challenge of turning bold ideas into reality. Whether it&apos;s pioneering crypto adoption in LatAm, exploring the potential of real-world assets (RWA) through tokenization, or building cutting-edge projects like LaChain, a zkSync-powered Layer 2 blockchain, I thrive at the intersection of technology and impact.
+
+When I&apos;m not working on scaling the crypto ecosystem, I enjoy flying, spending time with my family—including my wife, our two dogs, and a cat—or exploring new horizons. From supporting Argentina&apos;s rising talent in F1, like Franco Colapinto, to brainstorming the next big idea, I bring the same energy and focus to every endeavor.
+
+I believe in the power of collaboration to drive change, whether through building meaningful partnerships or mentoring the next generation of innovators. If you share a vision for a more connected and prosperous future, reach out on social media!
           </p>
         </div>
         <div className="text-center">
